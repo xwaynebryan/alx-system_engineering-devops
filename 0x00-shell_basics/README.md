@@ -3,3 +3,4 @@
 3.The third script takes one from the current working directory to the home directory
 4.Dispalay current directory contents in long format
 5.Display all files including hidden in long format
+6.List all files with users and id numerically
